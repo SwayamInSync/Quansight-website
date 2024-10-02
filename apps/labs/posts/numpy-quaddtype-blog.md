@@ -21,7 +21,6 @@ So buckle up and grab your favorite beverage (*might I suggest a Quad Espresso?*
 ---
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [The Long Double Dilemma in NumPy](#the-long-double-dilemma-in-numpy)
 - [Introducing Numpy-QuadDType](#introducing-numpy-quaddtype)
   - [The Inner Workings of `numpy_quaddtype`](#the-inner-workings-of-numpy_quaddtype)
